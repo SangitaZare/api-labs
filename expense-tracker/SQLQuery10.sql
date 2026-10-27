@@ -1,0 +1,1 @@
+   EXEC sp_rename 'dbo.usp_GetMonthlySpendByCategory_off', 'usp_GetMonthlySpendByCategory';
